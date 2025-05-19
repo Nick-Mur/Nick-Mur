@@ -1,4 +1,4 @@
-# Hi there, I'm Nick 👋
+# Hello there, I'm Nick 👋
 
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
@@ -10,3 +10,51 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nick-Mur&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nick-Mur&layout=compact&langs_count=7&theme=radical"/>
 </div>
+<!-- ██████████████████████████████████████████████████████ -->
+
+<!--                G I T H U B   S T A T S  🚀              -->
+
+<!--        All‑in‑one visual dashboard for Nick‑Mur        -->
+
+<!-- ██████████████████████████████████████████████████████ -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Nick‑Mur+%7C+Statistics+Overload;Charts,+Graphs,+Badges,+Numbers+everywhere!" alt="typing intro" />
+</p>
+
+---
+
+## 🧮 Languages Doughnut
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nick-Mur&layout=donut&theme=algolia" height="260"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Nick-Mur&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Trophies Cabinet
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nick-Mur&theme=gruvbox&no-bg=true&margin-w=15&row=2&column=4"/>
+</p>
+
+---
+
+## 📈 Activity Graph (Last 31 days)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nick-Mur&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
+</p>
+
+---
+
+
+
