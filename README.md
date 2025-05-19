@@ -18,18 +18,6 @@
 
 <!-- ██████████████████████████████████████████████████████ -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Nick‑Mur+%7C+Statistics+Overload;Charts,+Graphs,+Badges,+Numbers+everywhere!" alt="typing intro" />
-</p>
-
----
-
-## 🧮 Languages Doughnut
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nick-Mur&layout=donut&theme=algolia" height="260"/>
-</p>
-
 ---
 
 ## 🔥 Contribution Streak
